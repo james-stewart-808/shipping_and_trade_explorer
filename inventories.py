@@ -53,12 +53,12 @@ st.table(
         #"Transport Supply": "The sum of total transport work conducted by vessels across all voyages within the set. Transport \
         #    Work is provided in two separate forms, one calculation that represents the product of Gross Tonnage and distance \
         #    and another that represents the product of Deadweight Tonnage and distance.",
-        "Average Build Year": "The average build year of vessels conducting voyages in the set. A range of averages are \
-            provided, including the average observed across all voyages, the average across all vessels, as well as the average \
-            build year when weighted by Gross Tonnage and Deadweight Tonnage.",
-        #"Average Voyage Distance": "The average distance associated with voyages in each inventory set. A number of alternative \
-        #    metrics are provided, including the median distance travelled, the mean of median voyages completed by each vessel, \
-        #    the average voyage distance weighted by Gross Tonnage and that weighted by Deadweight Tonnage.",
+        #"Average Build Year": "The average build year of vessels conducting voyages in the set. A range of averages are \
+        #    provided, including the average observed across all voyages, the average across all vessels, as well as the average \
+        #    build year when weighted by Gross Tonnage and Deadweight Tonnage.",
+        "Average Voyage Distance": "The average distance associated with voyages in each inventory set. A number of alternative \
+            metrics are provided, including the median distance travelled, the mean of median voyages completed by each vessel, \
+            the average voyage distance weighted by Gross Tonnage and that weighted by Deadweight Tonnage.",
         #"Average Voyage Time": "The average time taken for each voyage in the inventory set is also provided in terms of the \
         #    overall median observed in the set of voyages, the mean of median voyage times completed by each vessel, as well as \
         #    the average voyage time observed once weighted by Gross Tonnage or Deadweight Tonnage.",
