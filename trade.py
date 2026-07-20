@@ -221,6 +221,6 @@ Hoffmeister and Dalheimer. (2024). A linear model to estimate modal split in \
     and time saving. J. Shipp. Trd. 9, 28. Available at: \
     https://doi.org/10.1186/s41072-024-00181-0.
     
-UNCTAD. (2025). Trade-and-Transport Dataset - Documentation.
+UNCTAD. (2025). The Trade-and-Transport Dataset - Technical Documentation.
 """
 )
