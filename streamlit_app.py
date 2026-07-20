@@ -25,12 +25,12 @@ st.markdown(
 main = st.Page("main.py", title="Overview", icon="🏡")
 inventories = st.Page("inventories.py", title="Voyage Inventories", icon="🚢")
 trade = st.Page("trade.py", title="Seaborne Trade Portfolios", icon="📦")
-impact_tracking = st.Page("impact_tracking.py", title="NZF Economic Impacts", icon="💵")
-costs_of_climate_change = st.Page("costs_of_climate_change.py", title="Costs of Climate Change", icon="💰")
+#impact_tracking = st.Page("impact_tracking.py", title="NZF Economic Impacts", icon="💵")
+#costs_of_climate_change = st.Page("costs_of_climate_change.py", title="Costs of Climate Change", icon="💰")
 contact = st.Page("contact.py", title="Contact", icon="📒")
 
 # Set up navigation
-pg = st.navigation([main, inventories, trade, impact_tracking, costs_of_climate_change, contact])
+pg = st.navigation([main, inventories, trade, contact])
 
 # Run the selected page
 pg.run()
