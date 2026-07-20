@@ -45,7 +45,7 @@ st.markdown(
   text_alignment="center"
 )
 
-st.subheader("Country-level Results", divider = 'grey')
+st.subheader("Country selection", divider = 'grey')
 
 # Country Selector
 country_choice = st.selectbox(
