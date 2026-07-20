@@ -1,0 +1,215 @@
+iso_2,iso_3,iso_code,country,region,region_wb,status,income
+AW,ABW,533,Aruba,americas,lac,sids_ldcs,high_income
+AF,AFG,004,Afghanistan,asia,sa,sids_ldcs,low_income
+AO,AGO,024,Angola,africa,ssa,sids_ldcs,low_mid_income
+AI,AIA,660,Anguilla,americas,lac,sids_ldcs,high_income
+AL,ALB,008,Albania,europe,euca,developed_plus,upp_mid_income
+AD,AND,020,Andorra,europe,euca,developed_plus,high_income
+AE,ARE,784,United Arab Emirates,asia,mena,developing_minus,high_income
+AR,ARG,032,Argentina,americas,lac,developing_minus,upp_mid_income
+AM,ARM,051,Armenia,asia,euca,developed_plus,upp_mid_income
+AS,ASM,016,American Samoa,oceania,eap,sids_ldcs,high_income
+AG,ATG,028,Antigua and Barbuda,americas,lac,sids_ldcs,high_income
+AU,AUS,036,Australia,oceania,eap,developed_plus,high_income
+AT,AUT,040,Austria,europe,euca,developed_plus,high_income
+AZ,AZE,031,Azerbaijan,asia,euca,developed_plus,upp_mid_income
+BI,BDI,108,Burundi,africa,ssa,sids_ldcs,low_income
+BE,BEL,056,Belgium,europe,euca,developed_plus,high_income
+BJ,BEN,204,Benin,africa,ssa,sids_ldcs,low_mid_income
+BF,BFA,854,Burkina Faso,africa,ssa,sids_ldcs,low_income
+BD,BGD,050,Bangladesh,asia,sa,sids_ldcs,low_mid_income
+BG,BGR,100,Bulgaria,europe,euca,developed_plus,upp_mid_income
+BH,BHR,048,Bahrain,asia,mena,sids_ldcs,high_income
+BS,BHS,044,Bahamas,americas,lac,sids_ldcs,high_income
+BA,BIH,070,Bosnia and Herzegovina,europe,euca,developed_plus,upp_mid_income
+BY,BLR,112,Belarus,europe,euca,developed_plus,upp_mid_income
+BZ,BLZ,084,Belize,americas,lac,sids_ldcs,upp_mid_income
+BM,BMU,060,Bermuda,americas,na,sids_ldcs,high_income
+BO,BOL,068,Bolivia (Plurinational State of),americas,lac,developing_minus,low_mid_income
+BR,BRA,076,Brazil,americas,lac,developing_minus,upp_mid_income
+BB,BRB,052,Barbados,americas,lac,sids_ldcs,high_income
+BN,BRN,096,Brunei Darussalam,asia,eap,developing_minus,high_income
+BT,BTN,064,Bhutan,asia,sa,sids_ldcs,low_mid_income
+BW,BWA,072,Botswana,africa,ssa,developing_minus,upp_mid_income
+CF,CAF,140,Central African Republic,africa,ssa,sids_ldcs,low_income
+CA,CAN,124,Canada,americas,na,developed_plus,high_income
+CH,CHE,756,Switzerland,europe,euca,developed_plus,high_income
+CL,CHL,152,Chile,americas,lac,developing_minus,high_income
+CN,CHN,156,China,asia,eap,developing_minus,upp_mid_income
+CI,CIV,384,Côte D’Ivoire,africa,ssa,developing_minus,low_mid_income
+CM,CMR,120,Cameroon,africa,ssa,developing_minus,low_mid_income
+CD,COD,180,Democratic Republic of the Congo,africa,ssa,sids_ldcs,low_income
+CG,COG,178,Congo,africa,ssa,developing_minus,low_mid_income
+CK,COK,184,Cook Islands,oceania,eap,sids_ldcs,high_income
+CO,COL,170,Colombia,americas,lac,developing_minus,upp_mid_income
+KM,COM,174,Comoros,africa,ssa,sids_ldcs,low_mid_income
+CV,CPV,132,Cabo Verde,africa,ssa,sids_ldcs,low_mid_income
+CR,CRI,188,Costa Rica,americas,lac,developing_minus,upp_mid_income
+CU,CUB,192,Cuba,americas,lac,sids_ldcs,upp_mid_income
+CW,CUW,531,Curaçao,americas,lac,sids_ldcs,high_income
+KY,CYM,136,Cayman Islands,americas,lac,sids_ldcs,high_income
+CY,CYP,196,Cyprus,asia,euca,developed_plus,high_income
+CZ,CZE,203,Czechia,europe,euca,developed_plus,high_income
+DE,DEU,276,Germany,europe,euca,developed_plus,high_income
+DJ,DJI,262,Djibouti,africa,mena,sids_ldcs,low_mid_income
+DM,DMA,212,Dominica,americas,lac,sids_ldcs,upp_mid_income
+DK,DNK,208,Denmark,europe,euca,developed_plus,high_income
+DO,DOM,214,Dominican Republic,americas,lac,sids_ldcs,upp_mid_income
+DZ,DZA,012,Algeria,africa,mena,developing_minus,low_mid_income
+EC,ECU,218,Ecuador,americas,lac,developing_minus,upp_mid_income
+EG,EGY,818,Egypt,africa,mena,developing_minus,low_mid_income
+ER,ERI,232,Eritrea,africa,ssa,sids_ldcs,low_income
+ES,ESP,724,Spain,europe,euca,developed_plus,high_income
+EE,EST,233,Estonia,europe,euca,developed_plus,high_income
+ET,ETH,231,Ethiopia,africa,ssa,sids_ldcs,low_income
+FI,FIN,246,Finland,europe,euca,developed_plus,high_income
+FJ,FJI,242,Fiji,oceania,eap,sids_ldcs,upp_mid_income
+FR,FRA,250,France,europe,euca,developed_plus,high_income
+FM,FSM,583,Federated States of Micronesia,oceania,eap,sids_ldcs,low_mid_income
+GA,GAB,266,Gabon,africa,ssa,developing_minus,upp_mid_income
+GB,GBR,826,United Kingdom,europe,euca,developed_plus,high_income
+GE,GEO,268,Georgia,asia,euca,developed_plus,upp_mid_income
+GH,GHA,288,Ghana,africa,ssa,developing_minus,low_mid_income
+GN,GIN,324,Guinea,africa,ssa,sids_ldcs,low_mid_income
+GP,GLP,312,Guadeloupe,americas,lac,sids_ldcs,high_income
+GM,GMB,270,Gambia,africa,ssa,sids_ldcs,low_income
+GW,GNB,624,Guinea-Bissau,africa,ssa,sids_ldcs,low_income
+GQ,GNQ,226,Equatorial Guinea,africa,ssa,developing_minus,upp_mid_income
+GR,GRC,300,Greece,europe,euca,developed_plus,high_income
+GD,GRD,308,Grenada,americas,lac,sids_ldcs,upp_mid_income
+GT,GTM,320,Guatemala,americas,lac,developing_minus,upp_mid_income
+GU,GUM,316,Guam,oceania,eap,sids_ldcs,high_income
+GY,GUY,328,Guyana,americas,lac,sids_ldcs,high_income
+HN,HND,340,Honduras,americas,lac,developing_minus,low_mid_income
+HR,HRV,191,Croatia,europe,euca,developed_plus,high_income
+HT,HTI,332,Haiti,americas,lac,sids_ldcs,low_mid_income
+HU,HUN,348,Hungary,europe,euca,developed_plus,high_income
+ID,IDN,360,Indonesia,asia,eap,developing_minus,upp_mid_income
+IN,IND,356,India,asia,sa,developing_minus,low_mid_income
+IE,IRL,372,Ireland,europe,euca,developed_plus,high_income
+IR,IRN,364,Iran (Islamic Republic of),asia,mena,developing_minus,low_mid_income
+IQ,IRQ,368,Iraq,asia,mena,developing_minus,upp_mid_income
+IS,ISL,352,Iceland,europe,euca,developed_plus,high_income
+IL,ISR,376,Israel,asia,mena,developing_minus,high_income
+IT,ITA,380,Italy,europe,euca,developed_plus,high_income
+JM,JAM,388,Jamaica,americas,lac,sids_ldcs,upp_mid_income
+JO,JOR,400,Jordan,asia,mena,developing_minus,low_mid_income
+JP,JPN,392,Japan,asia,eap,developed_plus,high_income
+KZ,KAZ,398,Kazakhstan,asia,euca,developed_plus,upp_mid_income
+KE,KEN,404,Kenya,africa,ssa,developing_minus,low_mid_income
+KG,KGZ,417,Kyrgyzstan,asia,euca,developed_plus,low_mid_income
+KH,KHM,116,Cambodia,asia,eap,sids_ldcs,low_mid_income
+KI,KIR,296,Kiribati,oceania,eap,sids_ldcs,low_mid_income
+KN,KNA,659,Saint Kitts and Nevis,americas,lac,sids_ldcs,high_income
+KR,KOR,410,Republic of Korea,asia,eap,developing_minus,high_income
+KW,KWT,414,Kuwait,asia,mena,developing_minus,high_income
+LA,LAO,418,Lao People's Democratic Republic,asia,eap,sids_ldcs,low_mid_income
+LB,LBN,422,Lebanon,asia,mena,developing_minus,low_mid_income
+LR,LBR,430,Liberia,africa,ssa,sids_ldcs,low_income
+LY,LBY,434,Libya,africa,mena,developing_minus,upp_mid_income
+LC,LCA,662,Saint Lucia,americas,lac,sids_ldcs,upp_mid_income
+LI,LIE,438,Liechtenstein,europe,euca,developed_plus,high_income
+LK,LKA,144,Sri Lanka,asia,sa,developing_minus,low_mid_income
+LS,LSO,426,Lesotho,africa,ssa,sids_ldcs,low_mid_income
+LT,LTU,440,Lithuania,europe,euca,developed_plus,high_income
+LU,LUX,442,Luxembourg,europe,euca,developed_plus,high_income
+LV,LVA,428,Latvia,europe,euca,developed_plus,high_income
+MA,MAR,504,Morocco,africa,mena,developing_minus,low_mid_income
+MC,MCO,492,Monaco,europe,euca,developed_plus,high_income
+MD,MDA,498,Republic of Moldova,europe,euca,developed_plus,upp_mid_income
+MG,MDG,450,Madagascar,africa,ssa,sids_ldcs,low_income
+MV,MDV,462,Maldives,asia,sa,sids_ldcs,upp_mid_income
+MX,MEX,484,Mexico,americas,lac,developing_minus,upp_mid_income
+MH,MHL,584,Marshall Islands,oceania,eap,sids_ldcs,upp_mid_income
+MK,MKD,807,North Macedonia,europe,euca,developed_plus,upp_mid_income
+ML,MLI,466,Mali,africa,ssa,sids_ldcs,low_income
+MT,MLT,470,Malta,europe,mena,developed_plus,high_income
+MM,MMR,104,Myanmar,asia,eap,sids_ldcs,low_mid_income
+ME,MNE,499,Montenegro,europe,euca,developed_plus,upp_mid_income
+MN,MNG,496,Mongolia,asia,eap,developing_minus,low_mid_income
+MP,MNP,580,Commonwealth of Northern Marianas,oceania,eap,sids_ldcs,high_income
+MZ,MOZ,508,Mozambique,africa,ssa,sids_ldcs,low_income
+MR,MRT,478,Mauritania,africa,ssa,sids_ldcs,low_mid_income
+MS,MSR,500,Montserrat,americas,lac,sids_ldcs,upp_mid_income
+MQ,MTQ,474,Martinique,americas,lac,sids_ldcs,high_income
+MU,MUS,480,Mauritius,africa,ssa,sids_ldcs,upp_mid_income
+MW,MWI,454,Malawi,africa,ssa,sids_ldcs,low_income
+MY,MYS,458,Malaysia,asia,eap,developing_minus,upp_mid_income
+,NAM,516,Namibia,africa,ssa,developing_minus,upp_mid_income
+NC,NCL,540,New Caledonia,oceania,eap,sids_ldcs,high_income
+NE,NER,562,Niger,africa,ssa,sids_ldcs,low_income
+NG,NGA,566,Nigeria,africa,ssa,developing_minus,low_mid_income
+NI,NIC,558,Nicaragua,americas,lac,developing_minus,low_mid_income
+NU,NIU,570,Niue,oceania,eap,sids_ldcs,upp_mid_income
+NL,NLD,528,Netherlands,europe,euca,developed_plus,high_income
+NO,NOR,578,Norway,europe,euca,developed_plus,high_income
+NP,NPL,524,Nepal,asia,sa,sids_ldcs,low_mid_income
+NR,NRU,520,Nauru,oceania,eap,sids_ldcs,upp_mid_income
+NZ,NZL,554,New Zealand,oceania,eap,developed_plus,high_income
+OM,OMN,512,Oman,asia,mena,developing_minus,high_income
+PK,PAK,586,Pakistan,asia,sa,developing_minus,low_mid_income
+PA,PAN,591,Panama,americas,lac,developing_minus,high_income
+PE,PER,604,Peru,americas,lac,developing_minus,upp_mid_income
+PH,PHL,608,Philippines,asia,eap,developing_minus,low_mid_income
+PW,PLW,585,Palau,oceania,eap,sids_ldcs,upp_mid_income
+PG,PNG,598,Papua New Guinea,oceania,eap,sids_ldcs,low_mid_income
+PL,POL,616,Poland,europe,euca,developed_plus,high_income
+KP,PRK,408,Democratic People's Republic of Korea,asia,eap,developing_minus,low_income
+PR,PRI,630,Puerto Rico,americas,lac,sids_ldcs,high_income
+PT,PRT,620,Portugal,europe,euca,developed_plus,high_income
+PY,PRY,600,Paraguay,americas,lac,developing_minus,upp_mid_income
+PS,PSE,275,State of Palestine,asia,mena,developing_minus,upp_mid_income
+PF,PYF,258,French Polynesia,oceania,eap,sids_ldcs,high_income
+QA,QAT,634,Qatar,asia,mena,developing_minus,high_income
+RO,ROU,642,Romania,europe,euca,developed_plus,high_income
+RU,RUS,643,Russian Federation,europe,euca,developed_plus,upp_mid_income
+RW,RWA,646,Rwanda,africa,ssa,sids_ldcs,low_income
+SA,SAU,682,Saudi Arabia,asia,mena,developing_minus,high_income
+SD,SDN,729,Sudan,africa,ssa,sids_ldcs,low_income
+SN,SEN,686,Senegal,africa,ssa,sids_ldcs,low_mid_income
+SG,SGP,702,Singapore,asia,eap,sids_ldcs,high_income
+SB,SLB,090,Solomon Islands,oceania,eap,sids_ldcs,low_mid_income
+SL,SLE,694,Sierra Leone,africa,ssa,sids_ldcs,low_income
+SV,SLV,222,El Salvador,americas,lac,developing_minus,upp_mid_income
+SM,SMR,674,San Marino,europe,euca,developed_plus,high_income
+SO,SOM,706,Somalia,africa,ssa,sids_ldcs,low_income
+RS,SRB,688,Serbia,europe,euca,developed_plus,upp_mid_income
+SS,SSD,728,South Sudan,africa,ssa,sids_ldcs,low_income
+ST,STP,678,Sao Tome and Principe,africa,ssa,sids_ldcs,low_mid_income
+SR,SUR,740,Suriname,americas,lac,sids_ldcs,upp_mid_income
+SK,SVK,703,Slovakia,europe,euca,developed_plus,high_income
+SI,SVN,705,Slovenia,europe,euca,developed_plus,high_income
+SE,SWE,752,Sweden,europe,euca,developed_plus,high_income
+SZ,SWZ,748,Eswatini,africa,ssa,developing_minus,low_mid_income
+SX,SXM,534,Sint Maarten,americas,lac,sids_ldcs,high_income
+SC,SYC,690,Seychelles,africa,ssa,sids_ldcs,high_income
+SY,SYR,760,Syrian Arab Republic,asia,mena,developing_minus,low_income
+TC,TCA,796,Turks and Caicos Islands,americas,lac,sids_ldcs,high_income
+TD,TCD,148,Chad,africa,ssa,sids_ldcs,low_income
+TG,TGO,768,Togo,africa,ssa,sids_ldcs,low_income
+TH,THA,764,Thailand,asia,eap,developing_minus,upp_mid_income
+TJ,TJK,762,Tajikistan,asia,euca,developed_plus,low_mid_income
+TM,TKM,795,Turkmenistan,asia,euca,developed_plus,upp_mid_income
+TL,TLS,626,Timor-Leste,asia,eap,sids_ldcs,low_mid_income
+TO,TON,776,Tonga,oceania,eap,sids_ldcs,upp_mid_income
+TT,TTO,780,Trinidad and Tobago,americas,lac,sids_ldcs,high_income
+TN,TUN,788,Tunisia,africa,mena,developing_minus,low_mid_income
+TR,TUR,792,Turkey,asia,euca,developing_minus,upp_mid_income
+TV,TUV,798,Tuvalu,oceania,eap,sids_ldcs,upp_mid_income
+TZ,TZA,834,United Republic of Tanzania,africa,ssa,sids_ldcs,low_mid_income
+UG,UGA,800,Uganda,africa,ssa,sids_ldcs,low_income
+UA,UKR,804,Ukraine,europe,euca,developed_plus,low_mid_income
+UY,URY,858,Uruguay,americas,lac,developing_minus,high_income
+US,USA,840,United States,americas,na,developed_plus,high_income
+UZ,UZB,860,Uzbekistan,asia,euca,developed_plus,low_mid_income
+VC,VCT,670,Saint Vincent and the Grenadines,americas,lac,sids_ldcs,upp_mid_income
+VE,VEN,862,Venezuela (Bolivarian Republic of),americas,lac,developing_minus,upp_mid_income
+VG,VGB,092,British Virgin Islands,americas,lac,sids_ldcs,high_income
+VI,VIR,850,U.S. Virgin Islands,americas,lac,sids_ldcs,high_income
+VN,VNM,704,Viet Nam,asia,eap,developing_minus,low_mid_income
+VU,VUT,548,Vanuatu,oceania,eap,sids_ldcs,low_mid_income
+WS,WSM,882,Samoa,oceania,eap,sids_ldcs,low_mid_income
+YE,YEM,887,Yemen,asia,mena,sids_ldcs,low_income
+ZA,ZAF,710,South Africa,africa,ssa,developing_minus,upp_mid_income
+ZM,ZMB,894,Zambia,africa,ssa,sids_ldcs,low_mid_income
+ZW,ZWE,716,Zimbabwe,africa,ssa,developing_minus,low_mid_income
