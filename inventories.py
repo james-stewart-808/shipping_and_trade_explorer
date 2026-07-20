@@ -105,12 +105,14 @@ st.subheader(
 )
 indicator = st.segmented_control(
     "Which indicator would you like to visualise?",
-    ["Number of Calls", #"Average Build Year", 
-     "Average Voyage Distance (nm)", 
-     "Average Voyage Time (hours)", "Average Time in Port (hours)", 
-     "Energy Demand (TJ)", "GHG Emissions (t CO2e)", 
-     "NZF Costs in 2030 (US$)", "NZF Costs in 2040 (US$)", "NZF Costs in 2050 (US$)",
-     "NZF Costs per Voyage in 2030 (US$)", "NZF Costs per Voyage in 2040 (US$)", "NZF Costs per Voyage in 2050 (US$)"]
+    [
+        "Number of Calls", #"Average Build Year", 
+         "Average Voyage Distance (nm)", 
+         #"Average Voyage Time (hours)", "Average Time in Port (hours)", 
+         "Energy Demand (TJ)", "GHG Emissions (t CO2e)", 
+         #"NZF Costs in 2030 (US$)", "NZF Costs in 2040 (US$)", "NZF Costs in 2050 (US$)",
+         #"NZF Costs per Voyage in 2030 (US$)", "NZF Costs per Voyage in 2040 (US$)", "NZF Costs per Voyage in 2050 (US$)"
+    ]
 )
 indicator_c = ["n_vys", "aby_flt", "avd_flt", "avt_flt", "apt_flt", "ene_tj", "co2e_t", "s24_30", "s24_40", "s24_50", "s24_30_voy", "s24_40_voy", "s24_50_voy"]
 indicator_r = {
