@@ -59,7 +59,7 @@ st.session_state.iso_2 = country_iso_codes[(country_iso_codes.iso_country == cou
 st.session_state.iso_3 = country_iso_codes[(country_iso_codes.iso_country == country_choice)].iso_3.values[0]
 st.session_state.iso_code = country_iso_codes[(country_iso_codes.iso_country == country_choice)].iso_code.values[0]
 
-st.write("""Use the sidebar to explore the different components of the dashboard:""")
+st.write("""Use the sidebar to explore the different components of the dashboard...""")
 st.page_link("inventories.py", label="**Voyage-based Inventories**", icon="🚢")
 st.page_link("trade.py", label="**Merchandise Trade Portfolios**", icon="📦")
 
