@@ -49,7 +49,7 @@ st.subheader("Country selection", divider = 'grey')
 
 # Country Selector
 country_choice = st.selectbox(
-    "For which country would you like to statistics related to international shipping, merchandise trade and MTM impact tracking?",
+    "For which country would you like to statistics related to international shipping and maritime trade?",
     country_iso_codes.iso_country.unique(),
     index=2)
 
@@ -65,11 +65,12 @@ st.markdown(
   🚢 **Voyage-based Inventories** – Track shipping movements and inventories.
   
   📦 **Merchandise Trade Portfolios** – Analyse import/export flows by commodity and partner.
-  
-  💵 **Impact Tracking Results** – Monitor trade impacts and economic metrics.
   """, 
   text_alignment="center"
 )
+
+st.page_link("inventories.py", label="Voyage-based Inventories", icon="🚢")
+st.page_link("trade.py", label="Merchandise Trade Portfolios", icon="📦")
 
 st.divider()
 
