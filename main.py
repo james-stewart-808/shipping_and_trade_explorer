@@ -60,19 +60,8 @@ st.session_state.iso_3 = country_iso_codes[(country_iso_codes.iso_country == cou
 st.session_state.iso_code = country_iso_codes[(country_iso_codes.iso_country == country_choice)].iso_code.values[0]
 
 st.write("""Use the sidebar to explore the different components of the dashboard:""")
-st.markdown(
-  """
-  🚢 **Voyage-based Inventories** – Track shipping movements and inventories.
-  
-  📦 **Merchandise Trade Portfolios** – Analyse import/export flows by commodity and partner.
-  """, 
-  text_alignment="center"
-)
-
 st.page_link("inventories.py", label="**Voyage-based Inventories**", icon="🚢")
 st.page_link("trade.py", label="**Merchandise Trade Portfolios**", icon="📦")
-
-st.markdown(st.page_link("inventories.py", label=st.markdown("**Voyage-based Inventories**"), icon="🚢"))
 
 st.divider()
 
