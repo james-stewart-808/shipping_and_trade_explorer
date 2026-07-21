@@ -72,7 +72,7 @@ st.markdown(
 st.page_link("inventories.py", label="**Voyage-based Inventories**", icon="🚢")
 st.page_link("trade.py", label="**Merchandise Trade Portfolios**", icon="📦")
 
-st.markdown(st.page_link("inventories.py", label="**Voyage-based Inventories**", icon="🚢"))
+st.markdown(st.page_link("inventories.py", label=st.markdown("**Voyage-based Inventories**"), icon="🚢"))
 
 st.divider()
 
