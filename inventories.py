@@ -151,13 +151,13 @@ else:
     )
 
 # Provide option to download as CSV
-download_as_csv(
-    int_inv_by_type_to_plot, 
-    "International Arrivals Inventory by Vessel Type - {0} ({1})".format(
-        st.session_state.iso_country, st.session_state.iso_code),
-    "International Arrivals Inventory by Vessel Type - {0} ({1}).csv".format(
-        st.session_state.iso_country, st.session_state.iso_code)
-)
+#download_as_csv(
+#    int_inv_by_type_to_plot, 
+#    "International Arrivals Inventory by Vessel Type - {0} ({1})".format(
+#        st.session_state.iso_country, st.session_state.iso_code),
+#    "International Arrivals Inventory by Vessel Type - {0} ({1}).csv".format(
+#        st.session_state.iso_country, st.session_state.iso_code)
+#)
 st.divider()
 
 
@@ -206,13 +206,13 @@ else:
     )
 
 # Provide option to download as CSV
-download_as_csv(
-    int_inv_by_partner_to_plot, 
-    "International Arrivals Inventory by Partner Economy - {0} ({1})".format(
-        st.session_state.iso_country, st.session_state.iso_code),
-    "International Arrivals Inventory by Partner Economy - {0} ({1}).csv".format(
-        st.session_state.iso_country, st.session_state.iso_code)
-)
+#download_as_csv(
+#    int_inv_by_partner_to_plot, 
+#    "International Arrivals Inventory by Partner Economy - {0} ({1})".format(
+#        st.session_state.iso_country, st.session_state.iso_code),
+#    "International Arrivals Inventory by Partner Economy - {0} ({1}).csv".format(
+#        st.session_state.iso_country, st.session_state.iso_code)
+#)
 st.divider()
 
 
@@ -259,13 +259,13 @@ else:
     )
 
 # Provide option to download as CSV
-download_as_csv(
-    int_inv_by_port_to_plot, 
-    "International Arrivals Inventory by Port - {0} ({1})".format(
-        st.session_state.iso_country, st.session_state.iso_code),
-    "International Arrivals Inventory by Port - {0} ({1}).csv".format(
-        st.session_state.iso_country, st.session_state.iso_code)
-)
+#download_as_csv(
+#    int_inv_by_port_to_plot, 
+#    "International Arrivals Inventory by Port - {0} ({1})".format(
+#        st.session_state.iso_country, st.session_state.iso_code),
+#    "International Arrivals Inventory by Port - {0} ({1}).csv".format(
+#        st.session_state.iso_country, st.session_state.iso_code)
+#)
 st.divider()
 
 
