@@ -80,13 +80,13 @@ if I_X == "Exports":
                 st.session_state.iso_code, tr_profile), index_col=0)
         merch_trade_vis(tr.iloc[:25], "clean_desc", "tonne")
 
-    download_as_csv(
-        tr, 
-        "Top Export Trade Flows - {0} ({1})".format(
-            st.session_state.iso_country, st.session_state.iso_code),
-        "Top Export Trade Flows - {0} ({1}).csv".format(
-            st.session_state.iso_country, st.session_state.iso_code)
-    )
+    #download_as_csv(
+    #    tr, 
+    #    "Top Export Trade Flows - {0} ({1})".format(
+    #        st.session_state.iso_country, st.session_state.iso_code),
+    #    "Top Export Trade Flows - {0} ({1}).csv".format(
+    #        st.session_state.iso_country, st.session_state.iso_code)
+    #)
     st.divider()
     
     # Top HS2 Commodity Flows
@@ -105,13 +105,13 @@ if I_X == "Exports":
                 st.session_state.iso_code, co_profile), index_col=0)
         merch_trade_vis(co.iloc[:25], "Description", "tonne")
 
-    download_as_csv(
-        co, 
-        "Top Export HS2 Commodity Flows - {0} ({1})".format(
-            st.session_state.iso_country, st.session_state.iso_code),
-        "Top Export HS2 Commodity Flows - {0} ({1}).csv".format(
-            st.session_state.iso_country, st.session_state.iso_code)
-    )
+    #download_as_csv(
+    #    co, 
+    #    "Top Export HS2 Commodity Flows - {0} ({1})".format(
+    #        st.session_state.iso_country, st.session_state.iso_code),
+    #    "Top Export HS2 Commodity Flows - {0} ({1}).csv".format(
+    #        st.session_state.iso_country, st.session_state.iso_code)
+    #)
     st.divider()
     
     # Top Partner Economies
@@ -130,13 +130,13 @@ if I_X == "Exports":
                 st.session_state.iso_code, pa_profile), index_col=0)
         merch_trade_vis(pa.iloc[:25], "imp_name", "tonne")
 
-    download_as_csv(
-        pa, 
-        "Top Export Partner Countries - {0} ({1})".format(
-            st.session_state.iso_country, st.session_state.iso_code),
-        "Top Export Partner Countries - {0} ({1}).csv".format(
-            st.session_state.iso_country, st.session_state.iso_code)
-    )
+    #download_as_csv(
+    #    pa, 
+    #    "Top Export Partner Countries - {0} ({1})".format(
+    #        st.session_state.iso_country, st.session_state.iso_code),
+    #    "Top Export Partner Countries - {0} ({1}).csv".format(
+    #        st.session_state.iso_country, st.session_state.iso_code)
+    #)
     st.divider()
 
 ### IMPORTS ###
@@ -157,13 +157,13 @@ else:
                 st.session_state.iso_code, tr_profile), index_col=0)
         merch_trade_vis(tr.iloc[:25], "clean_desc", "tonne")
 
-    download_as_csv(
-        tr, 
-        "Top Import Trade Flows - {0} ({1})".format(
-            st.session_state.iso_country, st.session_state.iso_code),
-        "Top Import Trade Flows - {0} ({1}).csv".format(
-            st.session_state.iso_country, st.session_state.iso_code)
-    )
+    #download_as_csv(
+    #    tr, 
+    #    "Top Import Trade Flows - {0} ({1})".format(
+    #        st.session_state.iso_country, st.session_state.iso_code),
+    #    "Top Import Trade Flows - {0} ({1}).csv".format(
+    #        st.session_state.iso_country, st.session_state.iso_code)
+    #)
     st.divider()
     
     # Top HS2 Commodity Flows
@@ -182,13 +182,13 @@ else:
                 st.session_state.iso_code, co_profile), index_col=0)
         merch_trade_vis(co.iloc[:25], "Description", "tonne")
 
-    download_as_csv(
-        co, 
-        "Top Import HS2 Commodity Flows - {0} ({1})".format(
-            st.session_state.iso_country, st.session_state.iso_code),
-        "Top Import HS2 Commodity Flows - {0} ({1}).csv".format(
-            st.session_state.iso_country, st.session_state.iso_code)
-    )
+    #download_as_csv(
+    #    co, 
+    #    "Top Import HS2 Commodity Flows - {0} ({1})".format(
+    #        st.session_state.iso_country, st.session_state.iso_code),
+    #    "Top Import HS2 Commodity Flows - {0} ({1}).csv".format(
+    #        st.session_state.iso_country, st.session_state.iso_code)
+    #)
     st.divider()
     
     # Top Partner Economies
@@ -207,13 +207,13 @@ else:
                 st.session_state.iso_code, pa_profile), index_col=0)
         merch_trade_vis(pa.iloc[:25], "exp_name", "tonne")
 
-    download_as_csv(
-        pa, 
-        "Top Import Partner Countries - {0} ({1}).csv".format(
-            st.session_state.iso_country, st.session_state.iso_code),
-        "Top Import Partner Countries - {0} ({1}).csv".format(
-            st.session_state.iso_country, st.session_state.iso_code)
-    )
+    #download_as_csv(
+    #    pa, 
+    #    "Top Import Partner Countries - {0} ({1}).csv".format(
+    #        st.session_state.iso_country, st.session_state.iso_code),
+    #    "Top Import Partner Countries - {0} ({1}).csv".format(
+    #        st.session_state.iso_country, st.session_state.iso_code)
+    #)
     st.divider()
 
 
